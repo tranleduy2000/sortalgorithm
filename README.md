@@ -14,15 +14,18 @@ The sorting algorithm is modeled:
 - Megre sort
 - Cocktail sort
 * It also compares the slow pace of the sorting algorithm
+* Animate sort
 
 There are 2 types of data entry (click the gear icon to open the control panel):
 - Manual: enter the array to be sorted
 - Auto: automatically generate random data
+
 Some screen shot
-![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
-![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
-
-![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
-
-![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![Screenshot tag](https://github.com/tranleduy2000/sortalgorithm/blob/master/screenshot/Screenshot_20170205-132701_framed.png)
+![Screenshot tag](https://github.com/tranleduy2000/sortalgorithm/blob/master/screenshot/Screenshot_20170205-132705_framed.png)
+![Screenshot tag](https://github.com/tranleduy2000/sortalgorithm/blob/master/screenshot/Screenshot_20170205-132709_framed.png)
+![Screenshot tag](https://github.com/tranleduy2000/sortalgorithm/blob/master/screenshot/Screenshot_20170205-132717_framed.png)
+![Screenshot tag](https://github.com/tranleduy2000/sortalgorithm/blob/master/screenshot/Screenshot_20170205-132727_framed.png)
+![Screenshot tag](https://github.com/tranleduy2000/sortalgorithm/blob/master/screenshot/Screenshot_20170205-132741_framed.png)
+![Screenshot tag](https://github.com/tranleduy2000/sortalgorithm/blob/master/screenshot/Screenshot_20170205-132753_framed.png)
