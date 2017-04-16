@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="author">Trần Lê Duy</string>
+    <string name="thpt_nguy_n_b_nh_khi_m">THPT Nguyễn Bỉnh Khiêm</string>
+    <string name="an_giang">An Giang</string>
+    <string name="rate_this_app">Đánh giá ứng dụng</string>
+    <string name="rate_desc">Đánh giá ứng dụng trên Google Play Store</string>
+    <string name="change_lang_msg">Khởi động lại ứng dụng để thay đổi ngôn ngữ.</string>
+    <string name="close">Đóng</string>
+    <string name="share_app">Chia sẻ</string>
+    <string name="rate">Rate app</string>
+    <string name="advice_check_the_random_button_to_generate_random_data">Gợi ý: nhấn vào nút random để sinh dữ liệu ngẫu nhiên</string>
+    <string name="app_name">Sắp xếp</string>
+    <string name="bubble_sort">Sắp xếp nổi bọt</string>
+    <string name="delay_time_milisecond">Độ trễ (mili giây)</string>
+    <string name="insert_sort">Sắp xếp chèn</string>
+    <string name="length_of_array">số phần tử của mảng</string>
+    <string name="merge_sort">Sắp xếp trộn</string>
+    <string name="navigation_drawer_close">Đóng ngăn điều hướng</string>
+    <string name="navigation_drawer_open">Mở ngăn navigation</string>
+    <string name="quick_sort">Sắp xếp nhanh</string>
+    <string name="random">Tạo dữ liệu ngẫu nhiên</string>
+    <string name="selection_sort">Sắp xếp chọn</string>
+    <string name="shell_sort">Shell Sort</string>
+    <string name="sort_algorithm">Thuật toán sắp xếp</string>
+    <string name="sorted">Đã sắp xếp xong</string>
+    <string name="speed_test">So sánh thuật toán sắp xếp</string>
+    <string name="touch_to_open_setting">Nhấn để mở bảng điều khiển</string>
+    <string name="tap_select">Chạm để bắt đầu</string>
+    <string name="enter_the_data_to_be_sorted_separated_by_commas">Nhập vào danh sách các số cần sắp xếp, cách nhau bằng dấu phẩy (,)</string>
+    <string name="language">Ngôn ngữ</string>
+    <string name="default_">Hệ thống</string>
+    <string name="ui">Giao diện</string>
+    <string name="pref_title_theme">Chủ đề</string>
+    <string name="setting">Cài đặt</string>
+    <string name="info">Giới thiệu về ứng dụng</string>
+    <string name="more_app">Thêm ứng dụng</string>
+    <string name="start_sort">Bắt đầu sắp xếp</string>
+    <string name="arr_sorted">Mảng đã được sắp xếp!</string>
+    <string name="swapping">Chuyển đổi</string>
+    <string name="original_arr">Mảng ban đầu</string>
+    <string name="my_own_cancel">Để sau</string>
+    <string name="my_own_rate">Đánh giá</string>
+    <string name="my_own_thanks">Không, cảm ơn.</string>
+    <string name="my_own_title">Đánh giá ứng dụng</string>
+    <string name="my_own_message">Nếu bạn thích sử dụng ứng dụng này, bạn có thể chút thời gian để đánh giá để ủng hộ nhà phát triển? Nó sẽ không mất nhiều hơn một phút. Cảm ơn sự ủng hộ của bạn!</string>
+
+</resources>

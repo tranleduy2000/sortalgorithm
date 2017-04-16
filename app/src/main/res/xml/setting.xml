@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="@string/ui">
+        <ListPreference
+            android:defaultValue="@string/lang_default"
+            android:entries="@array/language_entry"
+            android:entryValues="@array/language_code"
+            android:icon="@drawable/ic_language_white_24dp"
+            android:key="@string/key_pref_lang"
+            android:title="@string/language" />
+
+        <ListPreference
+            android:defaultValue="@string/theme_default"
+            android:entries="@array/arr_name_theme"
+            android:entryValues="@array/arr_name_theme"
+            android:icon="@drawable/ic_color_lens_white_24dp"
+            android:key="@string/key_pref_theme"
+            android:title="@string/pref_title_theme" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

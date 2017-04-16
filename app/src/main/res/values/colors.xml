@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#ff9800</color>
+
+    <color name="bar_color_light">#000000</color>
+    <color name="bar_color_dark">#ffffff</color>
+
+    <color name="target_color_light">#ffea00</color>
+    <color name="target_color_dark">#ffea00</color>
+
+    <color name="trace_color_light">#304ffe</color>
+    <color name="trace_color_dark">#304ffe</color>
+
+    <color name="quad_color_light">#4CAF50</color>
+    <color name="quad_color_dark">#4CAF50</color>
+
+    <color name="text_info_color_dark">#E91E63</color>
+    <color name="text_info_color_light">#E91E63</color>
+
+    <color name="complete_color_dark">#4CAF50</color>
+    <color name="complete_color_light">#4CAF50</color>
+
+    <color name="swap_a_color_dark">#d50000</color>
+    <color name="swap_b_color_dark">#ef5350</color>
+    <color name="swap_a_color_light">#d50000</color>
+    <color name="swap_b_color_light">#ef5350</color>
+
+    <color name="arc_color">#673ab7</color>
+</resources>

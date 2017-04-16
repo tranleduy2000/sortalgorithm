@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/coordinator"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?android:windowBackground"
+    tools:context=".SortAlgorithmFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:weightSum="100">
+
+            <com.duy.algorithm.customview.SortView
+                android:id="@+id/sortView0"
+                style="?sortViewStyle"
+                android:layout_width="match_parent"
+                android:layout_height="100dp" />
+
+            <com.duy.algorithm.customview.SortView
+                android:id="@+id/sortView1"
+                style="?sortViewStyle"
+                android:layout_width="match_parent"
+                android:layout_height="100dp" />
+
+            <com.duy.algorithm.customview.SortView
+                android:id="@+id/sortView2"
+                style="?sortViewStyle"
+                android:layout_width="match_parent"
+                android:layout_height="100dp" />
+
+            <com.duy.algorithm.customview.SortView
+                android:id="@+id/sortView3"
+                style="?sortViewStyle"
+                android:layout_width="match_parent"
+                android:layout_height="100dp" />
+
+            <com.duy.algorithm.customview.SortView
+                android:id="@+id/sortView4"
+                style="?sortViewStyle"
+                android:layout_width="match_parent"
+                android:layout_height="100dp" />
+
+            <com.duy.algorithm.customview.SortView
+                android:id="@+id/sortView5"
+                style="?sortViewStyle"
+                android:layout_width="match_parent"
+                android:layout_height="100dp" />
+
+            <com.duy.algorithm.customview.SortView
+                android:id="@+id/sortView6"
+                style="?sortViewStyle"
+                android:layout_width="match_parent"
+                android:layout_height="100dp" />
+        </LinearLayout>
+    </ScrollView>
+
+
+</FrameLayout>

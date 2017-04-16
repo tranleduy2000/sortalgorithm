@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/delay_time_milisecond" />
+
+        <TextView
+            android:id="@+id/txt_process"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <android.support.v7.widget.AppCompatSeekBar
+        android:id="@+id/seek_bar_time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:max="1000"
+        android:progress="500" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingRight="16dp"
+            android:text="@string/length_of_array" />
+
+        <android.support.v7.widget.AppCompatEditText
+            android:id="@+id/edit_length"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/default_value"
+            android:inputType="numberSigned"
+            android:maxLength="2" />
+    </LinearLayout>
+
+    <com.duy.algorithm.customview.EditTextInputArray
+        android:id="@+id/edit_entry"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/enter_the_data_to_be_sorted_separated_by_commas" />
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/ckb_random"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:checked="true"
+        android:text="@string/random" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="16dp">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="8dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/ic_info_white_24dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/advice_check_the_random_button_to_generate_random_data"
+            android:textColor="?colorAccent" />
+    </LinearLayout>
+</LinearLayout>

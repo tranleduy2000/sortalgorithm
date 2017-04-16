@@ -1,0 +1,35 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.2"
+    defaultConfig {
+        applicationId "com.duy.sortalgorithm.free"
+        minSdkVersion 14
+        targetSdkVersion 25
+        versionCode 4
+        versionName "1.3"
+    }
+    buildTypes {
+        release {
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+        debug {
+            minifyEnabled false
+            applicationIdSuffix ".debug"
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile 'com.android.support:appcompat-v7:25.1.1'
+    compile 'com.android.support:design:25.1.1'
+    compile 'com.sothree.slidinguppanel:library:3.3.1'
+    compile 'com.android.support:cardview-v7:25.1.1'
+    compile 'io.github.kobakei:ratethisapp:1.1.1'
+    compile 'com.github.jorgecastilloprz:fabprogresscircle:1.01@aar'
+}

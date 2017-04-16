@@ -1,0 +1,59 @@
+<resources>
+    <declare-styleable name="SortViewAttrs">
+        <attr name="bar_color" format="integer" />
+        <attr name="target_color" format="integer" />
+        <attr name="trace_color" format="integer" />
+        <attr name="quad_color" format="integer" />
+        <attr name="text_info_color" format="integer" />
+        <attr name="complete_color" format="integer" />
+        <attr name="swap_a_color" format="integer" />
+        <attr name="swap_b_color" format="integer" />
+        <attr name="sortViewStyle" format="integer" />
+    </declare-styleable>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat">
+        <!-- Customize your theme here. -->
+        <!--<item name="colorPrimary">@color/colorPrimary</item>-->
+        <!--<item name="colorPrimaryDark">@color/colorPrimaryDark</item>-->
+        <!--<item name="colorAccent">@color/colorAccent</item>-->
+    </style>
+
+    <style name="AppTheme.Dark.NoActionBar" parent="Theme.AppCompat">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="sortViewStyle">@style/SortViewStyle.Dark</item>
+    </style>
+
+    <style name="AppTheme.Light.NoActionBar" parent="Theme.AppCompat.Light">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="sortViewStyle">@style/SortViewStyle.Light</item>
+    </style>
+
+    <style name="SortViewStyle.Light" parent="SortViewStyle">
+        <item name="bar_color">@color/bar_color_light</item>
+        <item name="target_color">@color/target_color_light</item>
+        <item name="trace_color">@color/trace_color_light</item>
+        <item name="quad_color">@color/quad_color_light</item>
+        <item name="text_info_color">@color/text_info_color_light</item>
+        <item name="complete_color">@color/complete_color_light</item>
+        <item name="swap_a_color">@color/swap_a_color_light</item>
+        <item name="swap_b_color">@color/swap_b_color_light</item>
+    </style>
+
+    <style name="SortViewStyle.Dark" parent="SortViewStyle">
+        <item name="bar_color">@color/bar_color_dark</item>
+        <item name="target_color">@color/target_color_dark</item>
+        <item name="trace_color">@color/trace_color_dark</item>
+        <item name="quad_color">@color/quad_color_dark</item>
+        <item name="text_info_color">@color/text_info_color_dark</item>
+        <item name="complete_color">@color/complete_color_dark</item>
+        <item name="swap_a_color">@color/swap_a_color_dark</item>
+        <item name="swap_b_color">@color/swap_b_color_dark</item>
+    </style>
+
+    <style name="SortViewStyle"></style>
+
+
+</resources>

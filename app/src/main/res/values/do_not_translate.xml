@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="theme_light" translatable="false">Light</string>
+    <string name="theme_dark" translatable="false">Dark</string>
+
+    <string-array name="arr_name_theme" translatable="false">
+        <item name="theme_light">@string/theme_light</item>
+        <item name="theme_dark">@string/theme_dark</item>
+    </string-array>
+
+
+</resources>

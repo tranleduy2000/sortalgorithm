@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Sort Simulation</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="bubble_sort">Bubble Sort</string>
+    <string name="insert_sort">Insertion Sort</string>
+    <string name="merge_sort">Merge Sort</string>
+    <string name="quick_sort">Quick Sort</string>
+    <string name="selection_sort">Selection Sort</string>
+    <string name="shell_sort">Shell Sort</string>
+    <string name="delay_time_milisecond">Delay time (milisecond)</string>
+    <string name="random">Generate random data</string>
+    <string name="length_of_array">Number of array elements</string>
+    <string name="default_value" translatable="false">10</string>
+    <string name="touch_to_open_setting">Click to open the control panel</string>
+    <string name="sorted">Sorted</string>
+    <string name="advice_check_the_random_button_to_generate_random_data">Advice: Click the random button to generate random data</string>
+    <string name="sort_algorithm">Sort Algorithm</string>
+    <string name="speed_test">Comparison</string>
+    <string name="an_giang">An Giang province</string>
+    <string name="author">Tran Le Duy</string>
+    <string name="change_lang_msg">Restart the application to change the language.</string>
+    <string name="close">Close</string>
+    <string name="email_tranleduy1233_gmail_com" translatable="false">tranleduy1233@gmail.com</string>
+    <string name="rate">Rate app</string>
+    <string name="rate_desc">Rate applications on the Google Play Store</string>
+    <string name="rate_this_app">Rate this app</string>
+    <string name="share_app">Share app</string>
+    <string name="thpt_nguy_n_b_nh_khi_m">Nguyen Binh Khiem Highschool</string>
+    <string name="tap_select">Tap to select</string>
+    <string name="enter_the_data_to_be_sorted_separated_by_commas">Enter the data to be sorted, separated by commas (,)</string>
+    <string name="language">Language</string>
+    <string name="default_">System</string>
+    <string name="ui">User Interface</string>
+    <string name="pref_title_theme">Theme</string>
+    <string name="setting">Setting</string>
+    <string name="more_app">More app</string>
+    <string name="info">About apps</string>
+    <string name="start_sort">Start sort</string>
+    <string name="cocktail_sort" translatable="false">Cocktail Sort</string>
+    <string name="arr_sorted">Array has been sorted!</string>
+    <string name="original_arr">Original array</string>
+    <string name="swapping">Swapping</string>
+    <string name="my_own_title">Rate this app</string>
+    <string name="my_own_message">If you enjoy using this app, would you mind taking a moment to rate it? It will not take more than a minute. Thank for your support!</string>
+    <string name="my_own_rate">Rate now</string>
+    <string name="my_own_thanks">No, thanks</string>
+    <string name="my_own_cancel">Later</string>
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_sort_test"
+        android:icon="@drawable/ic_compare_white_24dp"
+        android:title="@string/speed_test" />
+
+    <item
+        android:id="@+id/nav_bubble_sort"
+        android:icon="@drawable/ic_list_white_24dp"
+        android:title="@string/bubble_sort" />
+    <item
+        android:id="@+id/nav_insert_sort"
+        android:icon="@drawable/ic_list_white_24dp"
+        android:title="@string/insert_sort" />
+    <item
+        android:id="@+id/nav_merge_sort"
+        android:icon="@drawable/ic_list_white_24dp"
+
+        android:title="@string/merge_sort" />
+    <item
+        android:id="@+id/nav_quick_sort"
+        android:icon="@drawable/ic_list_white_24dp"
+
+        android:title="@string/quick_sort" />
+    <item
+        android:id="@+id/nav_select_sort"
+        android:icon="@drawable/ic_list_white_24dp"
+        android:title="@string/selection_sort" />
+    <item
+        android:id="@+id/nav_shell_sort"
+        android:icon="@drawable/ic_list_white_24dp"
+        android:title="@string/shell_sort" />
+    <item
+        android:id="@+id/nav_cocktail_sort"
+        android:icon="@drawable/ic_list_white_24dp"
+        android:title="@string/cocktail_sort" />
+
+    <item
+        android:id="@+id/nav_setting"
+        android:icon="@drawable/ic_settings_white_24dp"
+        android:title="@string/setting" />
+
+    <item
+        android:id="@+id/nav_info"
+        android:icon="@drawable/ic_info_white_24dp"
+        android:title="@string/info" />
+</menu>

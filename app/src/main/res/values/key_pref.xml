@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="key_pref_theme" translatable="false">pref_theme</string>
+
+    <string name="theme_default" translatable="false">@string/theme_dark</string>
+
+    <string name="key_pref_lang" translatable="false">pref_lang_key</string>
+    <string name="lang_default" translatable="false">default_lang</string>
+
+    <string-array name="language_entry" translatable="false">
+        <item>@string/default_</item>
+        <item>Tiếng Việt</item>
+        <item>English</item>
+    </string-array>
+
+    <string-array name="language_code" translatable="false">
+        <item>default_lang</item>
+        <item>vi</item>
+        <item>en</item>
+    </string-array>
+
+</resources>
