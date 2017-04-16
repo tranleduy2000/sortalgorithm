@@ -1,7 +1,7 @@
 # sortalgorithm
 Visualization and comparison of sorting algorithms
 
-See in playstore https://play.google.com/store/apps/details?id=com.duy.sortalgorithm.free
+[![Get it on Google Play](https://developer.android.com/images/brand/en_generic_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=com.duy.sortalgorithm.free)
 
 You feel it difficult to understand the sort algorithm?
 Sort Simulation app will help you to more easily visualize, simulate the application step by step operation of sorting algorithms.
