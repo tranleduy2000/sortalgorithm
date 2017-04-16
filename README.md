@@ -22,10 +22,25 @@ There are 2 types of data entry (click the gear icon to open the control panel):
 
 Some screen shot
 
-![Screenshot tag](https://github.com/tranleduy2000/sortalgorithm/blob/master/screenshot/Screenshot_20170205-132701_framed.png)
 ![Screenshot tag](https://github.com/tranleduy2000/sortalgorithm/blob/master/screenshot/Screenshot_20170205-132705_framed.png)
 ![Screenshot tag](https://github.com/tranleduy2000/sortalgorithm/blob/master/screenshot/Screenshot_20170205-132709_framed.png)
 ![Screenshot tag](https://github.com/tranleduy2000/sortalgorithm/blob/master/screenshot/Screenshot_20170205-132717_framed.png)
 ![Screenshot tag](https://github.com/tranleduy2000/sortalgorithm/blob/master/screenshot/Screenshot_20170205-132727_framed.png)
 ![Screenshot tag](https://github.com/tranleduy2000/sortalgorithm/blob/master/screenshot/Screenshot_20170205-132741_framed.png)
 ![Screenshot tag](https://github.com/tranleduy2000/sortalgorithm/blob/master/screenshot/Screenshot_20170205-132753_framed.png)
+
+## License
+
+    Copyright 2014 Luke Klinker
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
